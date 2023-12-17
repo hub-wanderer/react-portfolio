@@ -52,7 +52,7 @@ function App() {
                     <div className="bg-ssbgcl overflow-hidden w-1/2 flex justify-center items-center">
                         <motion.div className="w-96 h-picf relative z-10">
                             <div className="overflow-hidden absolute w-96 z-10 h-picf rounded-picf border-2 border-textc">
-                                <img className="object-cover w-full h-full" src="./img/collage-with-mountains-city.jpg" alt=""/>
+                                <img className="object-cover w-full h-full" src="collage-with-mountains-city.jpg" alt=""/>
                             </div>
                             <div className="absolute right-[-50px] top-[8px] h-adtpf z-0 w-adtpf bg-adtp rounded-picf border-2 border-textc">
                                 <div className="intm flex flex-col h-full items-center w-full justify-between pl-pl">
@@ -63,7 +63,7 @@ function App() {
                                         <a target="_blank" href="https://vk.com/j_ask" className="cursor-grab border-2 active:relative active:top-0.5 active:shadow-btnshhov shadow-btnsh h-[37px] w-[37px] relative flex justify-center items-center p-[6px] border-solid border-textc rounded-full">
                                             <i className='absolute fa-brands fa-vk'></i>
                                         </a>
-                                        <a href="https://github.com/mefluent" target="_blank" className="cursor-grab border-2 active:relative active:top-0.5 active:shadow-btnshhov shadow-btnsh h-[37px] w-[37px] relative flex justify-center items-center border-solid border-textc rounded-full p-[6px]">
+                                        <a href="https://discord.gg/tzd5C93Adr" target="_blank" className="cursor-grab border-2 active:relative active:top-0.5 active:shadow-btnshhov shadow-btnsh h-[37px] w-[37px] relative flex justify-center items-center border-solid border-textc rounded-full p-[6px]">
                                             <i className="absolute fa-brands fa-discord"></i>
                                         </a>
                                         <a target="_blank" href="https://github.com/mefluent" className="cursor-grab border-2 active:relative active:top-0.5 active:shadow-btnshhov shadow-btnsh h-[37px] w-[37px] relative flex justify-center items-center border-solid border-textc rounded-full p-[6px]">
