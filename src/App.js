@@ -38,7 +38,7 @@ function App() {
                         <div className="flex mx-4 flex-col gap-7 justify-center">
                             <i className="fa-solid fa-code-fork"></i>
                             <motion.p className="cursor-default text-5xl">
-                                - Hello, I'm Fluent,<br/> a front-end<br/> developer...
+                                - Hello, I'm Jaroslav,<br/> a front-end<br/> developer...
                             </motion.p>
                             <p className="cursor-default">
                                 with a passion for crafting engaging and
